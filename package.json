@@ -8,6 +8,8 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "json": "^10.0.0",
+    "server": "^1.0.31",
     "vue": "^3.0.0",
     "vue-router": "^4.0.0-0"
   },
