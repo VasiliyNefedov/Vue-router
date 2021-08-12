@@ -1,19 +1,16 @@
 # blog-with-vue3-compositionapi
 
-## Project setup
+Тест Vue 3. Отображение постов. Фейк json-server
+
+### Project setup
 ```
 npm install
 ```
-
+### json-server start (если установлен глобально) 
+```
+json-server data/db.json
+```
 ### Compiles and hot-reloads for development
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
